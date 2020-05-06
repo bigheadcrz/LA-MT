@@ -6,7 +6,7 @@
 
 本书共分为七个章节，章节的顺序参考了机器翻译技术发展的时间脉络，同时兼顾了机器翻译知识体系的内在逻辑。各章节的主要关系如下：
 
-<img src=".\guideline.png" width="80%" height="80%" />
+<img src="https://github.com/bigheadcrz/LA-MT/blob/master/guideline.png" width="80%" height="80%" />
 
 ## 内容
 
